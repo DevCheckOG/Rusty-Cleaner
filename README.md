@@ -22,7 +22,7 @@
 
 ### 🔃 On the other side
 
-> Firefox
+> - Firefox
 
 ------------------------
 
