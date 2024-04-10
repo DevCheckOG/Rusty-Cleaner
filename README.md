@@ -10,7 +10,7 @@
 
 ## ✨ Features
 
-- 🧹 **Clean up Chromium-based web browsers**
+### 🧹 Clean up Chromium-based web browsers
   
 > - Chrome
 > - Opera
@@ -18,10 +18,10 @@
 
 ------------------------
 
-- **On the other side**
+### 🔃 On the other side**
 
 > Firefox
 
 ------------------------
 
-- 🧹 **Clean up temporary files of the System**
+### 🧹 Clean up temporary files of the System
