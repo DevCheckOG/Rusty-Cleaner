@@ -10,6 +10,8 @@
 
 # ✨ Features
 
+------------------------
+
 ### 🍃 Compatibility
 
 - 🪟 *Windows 10 - 11*
