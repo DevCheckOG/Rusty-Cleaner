@@ -8,7 +8,7 @@
 
 - 🆓 **Rusty Cleaner is a powerful and lightweight CLI to clean your temporary files.**
 
-## ✨ Features
+# ✨ Features
 
 ### 🧹 Clean up Chromium-based web browsers
   
@@ -18,7 +18,7 @@
 
 ------------------------
 
-### 🔃 On the other side**
+### 🔃 On the other side
 
 > Firefox
 
