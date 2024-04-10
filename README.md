@@ -10,6 +10,11 @@
 
 # ✨ Features
 
+### 🍃 Compatibility
+
+- 🪟 *Windows 10 - 11*
+- 🐧 *Linux (Coming Soon...)*
+
 ### 🧹 Clean up Chromium-based web browsers
 
 ------------------------
