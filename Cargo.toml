@@ -1,0 +1,24 @@
+[package]
+name = "rusty_cleaner"
+version = "0.0.1"
+edition = "2021"
+build = "src/build.rs"
+
+[workspace]
+members = ["src/windows/main.rs"]
+
+[[bin]]
+name = "rusty_cleaner_windows"
+path = "src/windows/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+figlet-rs = "0.1.5"
+chrono = "0.4.37"
+walkdir = "2.5.0"
+fs_extra = "1.3.0"
+
+[build-dependencies]
+winres = "0.1.12"
