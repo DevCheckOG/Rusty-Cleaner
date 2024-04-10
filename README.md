@@ -10,7 +10,7 @@
 
 # ✨ Features
 
-### 🍃 Compatibility
+## 🍃 Compatibility
 
 - 🪟 *Windows 10 - 11*
 - 🐧 *Linux (Coming Soon...)*
