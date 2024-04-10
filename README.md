@@ -11,6 +11,8 @@
 # ✨ Features
 
 ### 🧹 Clean up Chromium-based web browsers
+
+------------------------
   
 > - Chrome
 > - Opera
