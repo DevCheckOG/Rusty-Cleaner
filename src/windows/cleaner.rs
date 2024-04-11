@@ -193,7 +193,8 @@ pub fn clear_chromium_web_browsers() {
     if local_app_data.is_some() && app_data.is_some() {
         let mut total_free_size: Vec<f64> = vec![];
 
-        let chrome: PathBuf = Path::new(&local_app_data.to_owned().unwrap()).join("Google/Chrome/");
+        let chrome: PathBuf =
+            Path::new(&local_app_data.to_owned().unwrap()).join("Google/Chrome/User Data/Default/");
         let brave: PathBuf = Path::new(&local_app_data.unwrap())
             .join("BraveSoftware/Brave-Browser/User Data/Default/");
         let opera: PathBuf = Path::new(&app_data.unwrap()).join("Opera Software/Opera/");
