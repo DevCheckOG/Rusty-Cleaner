@@ -6,14 +6,13 @@
 
 ## ¿What is Rusty Cleaner?
 
-- **Rusty Cleaner is a powerful and lightweight CLI to clean your temporary files.**
+- Rusty Cleaner is a CLI tool to clean temporary files from frequently used **applications** and **browsers**. It also **frees up temporary files from your disk** instantly.
 
-### Compatibility
+### Operating System Compatibility
 
-- 🪟 *Windows 10 - 11*
-- 🐧 *Linux (Coming Soon...)*
+- *Windows 10 & 11*
 
-### 🧹 Clean up Chromium-based web browsers
+### Compatible web browsers
 
 ------------------------
   
@@ -23,5 +22,3 @@
 > - Firefox
 
 ------------------------
-
-### 🧹 Clean up temporary files of the System
