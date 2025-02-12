@@ -26,5 +26,5 @@
 ### Usage
 
 ```console
-rusty-cleaner.exe --clean
+rustycleaner-windows-v1.0.0.exe --clean
 ```
