@@ -7,7 +7,7 @@
 ## 🧩 ¿What is Rusty Cleaner?
 
 - 🆓 **Rusty Cleaner is a powerful and lightweight CLI to clean your temporary files.**
-
+- 
 # ✨ Features
 
 ### 🍃 Compatibility
