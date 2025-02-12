@@ -4,13 +4,11 @@
 
 # 🧹🦀 Rusty Cleaner 
 
-## 🧩 ¿What is Rusty Cleaner?
+## ¿What is Rusty Cleaner?
 
-- 🆓 **Rusty Cleaner is a powerful and lightweight CLI to clean your temporary files.**
-- 
-# ✨ Features
+- **Rusty Cleaner is a powerful and lightweight CLI to clean your temporary files.**
 
-### 🍃 Compatibility
+### Compatibility
 
 - 🪟 *Windows 10 - 11*
 - 🐧 *Linux (Coming Soon...)*
@@ -22,11 +20,6 @@
 > - Chrome
 > - Opera
 > - Brave
-
-------------------------
-
-### 🔃 On the other side
-
 > - Firefox
 
 ------------------------
