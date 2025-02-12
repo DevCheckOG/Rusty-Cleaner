@@ -13,12 +13,18 @@
 - *Windows 10 & 11*
 
 ### Compatible web browsers
-
-------------------------
   
-> - Chrome
-> - Opera
-> - Brave
-> - Firefox
+- Chrome
+- Opera
+- Brave
+- Firefox
 
-------------------------
+### Compatible general applications
+
+- Discord
+
+### Usage
+
+```console
+rusty-cleaner.exe --clean
+```
